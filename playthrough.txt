@@ -1,0 +1,15 @@
+flirt with joe
+forward
+take phone
+call joe
+forward
+take knife
+go east
+move ceiling tile
+go west
+go down
+unlock cage
+go in
+talk to candace
+talk to joe
+stab candace
